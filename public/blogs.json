@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/TWbRgC8/14170535-394-Digital-marketing-facebook-banner-template.jpg",
+        "title": "Exploring the Mysteries of Deep Space",
+        "author": "John Astronomer",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "September 15, 2023",
+        "reading_time": 10,
+        "hashtag": ["#SpaceExploration", "#Astronomy"]
+    },
+    {
+        "id": 67890,
+        "cover": "https://i.ibb.co/4jKK8Pp/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+        "title": "The Art of Culinary Delights",
+        "author": "Chef Julia Gourmet",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "September 18, 2023",
+        "reading_time": 15,
+        "hashtag": ["#Cooking", "#GourmetCuisine"]
+    },
+    {
+        "id": 23456,
+        "cover": "https://i.ibb.co/qkS58JY/oli-dale-xj-Sk-I-sei-ZY-unsplash.jpg",
+        "title": "Mastering the Guitar: A Beginner's Guide",
+        "author": "David Musician",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "September 20, 2023",
+        "reading_time": 8,
+        "hashtag": ["#Music", "#Guitar"]
+    },
+    {
+        "id": 78901,
+        "cover": "https://i.ibb.co/tHxxDjC/top-view-wi-fi-router-with-hands-using-laptop-smartphone.jpg",
+        "title": "Traveling the World on a Budget",
+        "author": "Wanderlust Explorer",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "September 22, 2023",
+        "reading_time": 12,
+        "hashtag": ["#Travel", "#BudgetTravel"]
+    },
+    {
+        "id": 34567,
+        "cover": "https://i.ibb.co/YRL9Gxq/top-view-workspace-with-laptop-notebook.jpg",
+        "title": "The Science of Mindfulness Meditation",
+        "author": "Dr. Mindful Zen",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "September 19, 2023",
+        "reading_time": 7,
+        "hashtag": ["#Mindfulness", "#Meditation"]
+    }
+]
