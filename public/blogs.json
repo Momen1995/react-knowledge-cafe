@@ -38,15 +38,5 @@
         "posted_date": "September 22, 2023",
         "reading_time": 12,
         "hashtag": ["#Travel", "#BudgetTravel"]
-    },
-    {
-        "id": 34567,
-        "cover": "https://i.ibb.co/YRL9Gxq/top-view-workspace-with-laptop-notebook.jpg",
-        "title": "The Science of Mindfulness Meditation",
-        "author": "Dr. Mindful Zen",
-        "author_img": "https://example.com/author5.jpg",
-        "posted_date": "September 19, 2023",
-        "reading_time": 7,
-        "hashtag": ["#Mindfulness", "#Meditation"]
     }
 ]
