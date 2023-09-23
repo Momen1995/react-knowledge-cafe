@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 
-const Blog = ({blog}) => {
+const Blog = ({blog , handleClickTwo}) => {
 
   const { title, cover, author_img, author, reading_time, posted_date,hashtag } = blog;
 
@@ -21,7 +21,7 @@ const Blog = ({blog}) => {
           <span className="text-[16px] text-slate-600 font-normal">
             {reading_time} min read
           </span>
-          <button className="text-[16px] text-slate-600">Bookmarks</button>
+          <button onClick={()=>handleClickTwo(blog)} className="text-[16px] text-slate-600">Bookmarks</button>
         </div>
       </div>
       <h3 className="text-4xl text-[#111] font-bold py-3">{title}</h3>
